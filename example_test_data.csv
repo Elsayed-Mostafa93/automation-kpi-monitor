@@ -1,0 +1,5 @@
+test,duration,status
+test_login,1.2,PASS
+test_logout,0.9,PASS
+test_error_handling,2.3,FAIL
+test_db_connection,1.1,PASS
